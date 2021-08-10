@@ -24,3 +24,4 @@ for path in FilesToCompress:
     compressFile(basePath)
     
 # doc install pip3 pillow install 
+# create a folder call fileSToCompress and after compress 
